@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine.UI;
 
 
-namespace UADE
+namespace UADE.UI
 {
 	[RequireComponent(typeof(CanvasGroup))]
 	public abstract class AbstractScreen : MonoBehaviour, IScreen

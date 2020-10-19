@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine.EventSystems;
 using System.Linq;
 
-namespace UADE
+namespace UADE.UI
 {
 	public class StackNavigator : MonoBehaviour
 	{

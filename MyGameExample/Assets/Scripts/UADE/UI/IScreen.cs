@@ -2,7 +2,7 @@
 using System.Collections;
 
 
-namespace UADE
+namespace UADE.UI
 {
 	public interface IScreen
     {
