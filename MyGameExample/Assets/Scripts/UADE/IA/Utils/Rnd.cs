@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace UADE.UI
+namespace UADE.IA.Utils
 {
     public static class Rnd
     {
