@@ -4,7 +4,6 @@
 ## 1. About this project
 This is a Unity Game Project example for the "Artifical Intelligence" subject students. 
 
-
 ## 2. C# Code Style Guide
 * Use 4 spaces indentation. ✅
 * Lines should be no longer than 100 characters long. ✅
