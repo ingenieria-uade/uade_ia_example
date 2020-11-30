@@ -167,3 +167,5 @@ Z: Punch
 X: Kick
 
 ## Credits
+Jorge Miranda
+Sebastian Garay
