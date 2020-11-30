@@ -56,8 +56,6 @@ namespace MyGameExample.Flocking.CheepCheep {
             inflock.AddTransition(States.SWIMMING, swimming);
 
             _fsm.SetInit(swimming);
-
-            _speed = 2 + Random.value * 4;
         }
 
         // Update is called once per frame

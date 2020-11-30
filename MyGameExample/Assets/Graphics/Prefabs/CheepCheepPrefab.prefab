@@ -50,7 +50,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dc0131d4e72c21446b527c49b87f1d37, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _speed: 3
+  _speed: 6
   _mesh: {fileID: 3460908031470867136}
   _viewDistance: 4
   _direction: {x: 0, y: 0, z: 0}
@@ -79,7 +79,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 29bf2c9ffd975de448ec5af546d782a1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _neighborRadius: 4
+  _neighborRadius: 2
   _mainCollider: {fileID: 8465968272458574605}
   _mask:
     serializedVersion: 2
@@ -108,7 +108,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 658c4c169278f2e4f855ebf0d30f08a5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _personalSpaceRadius: 3
+  _personalSpaceRadius: 2
 --- !u!114 &6854702730654268431
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -133,7 +133,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 187b8191c1e1048498d3aa6ee13c79eb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _radius: 20
+  _radius: 8
 --- !u!1001 &8465968272759044570
 PrefabInstance:
   m_ObjectHideFlags: 0
